@@ -1,2 +1,2 @@
 # Bugdet_tracker_python
-A budget tracker made in python. Input the name and cost of your monthly bills to see you monthly expense cost. Get the difference of earned monthly income from monthly expenses.
+A desktop budgeting tool built with Python and Tkinter. Users can add bills, edit amounts, delete entries, and automatically calculate total expenses and remaining balance. Data is saved locally using JSON for persistence.
